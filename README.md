@@ -1,6 +1,7 @@
 # Image to SVG Converter
 
 Image to SVG Converter is a simple GUI application that converts JPG, JPEG, and PNG images to SVG format.
+Note that it is a very basic application and only supports very simple images.
 
 ## Features
 
